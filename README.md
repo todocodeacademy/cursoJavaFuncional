@@ -1,5 +1,5 @@
 # Curso Java para Principiantes - TodoCode Academy
-Este repositorio contiene los ejercicios y materiales para el curso **[Java para Principiantes](https://todocodeacademy.com/course/java-para-principiantes/)** ofrecido por la **[TodoCode Academy](https://todocodeacademy.com/)**.   
+Este repositorio contiene los ejercicios y materiales para el curso **[Programación Funcional con Java](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwXS3RHBTbQfLLWLRJT8sMS)** ofrecido por la **[TodoCode Academy](https://todocodeacademy.com/)**.   
 Todo el material es propiedad intelectual de la mencionada institución. En caso de utilizar para fines educativos, por favor hacer la correspondiente mención. No se permite su uso para fines comerciales sin previa autorización.
 
 ![Image](https://todocodeacademy.com/wp-content/uploads/2020/12/cropped-LogoConSombras-sinfondo-166x38.png)
