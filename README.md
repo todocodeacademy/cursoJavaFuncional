@@ -13,8 +13,8 @@ Se sugiere intentar resolver los ejercicios por tu cuenta antes de revisar las s
 
 ## Recursos Adicionales
 
-- Versión anterior del curso en Youtube: [Ver aquí](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwXS3RHBTbQfLLWLRJT8sMS)
-- Versión GRATUITA con CERTIFICADO en la academia: [Próximamente](https://www.todocodeacademy.com)
+- Versión del curso en Youtube: [Ver aquí](https://youtube.com/playlist?list=PLQxX2eiEaqbwXS3RHBTbQfLLWLRJT8sMS&si=aWiAmkp8oLM3ZQJG)
+- Versión con CERTIFICADO en la academia: [Próximamente](https://www.todocodeacademy.com/cursos)
 - Roadmap (ruta de estudio) completo para aprender Java: [Ver aquí](https://todocodeacademy.com/roadmap-para-aprender-java-en-2024/)
 
 ## Contribuciones
